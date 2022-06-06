@@ -1,3 +1,5 @@
+#Used as a reference to the twitter streams API
+
 import requests
 import os
 import json
